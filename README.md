@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Katalon, CI/CD<br>💬 Ask me about ...<br>📫 How to reach me: nashuham14@gmail.com<br>😄 Pronouns: She/Her<br>⚡ Fun fact: very easy to mingle with people
+🌱 I’m currently learning Selenium, Cypress, Rest Assured,Katalon, CI/CD<br>💬 Ask me about ...<br>📫 How to reach me: andreasbagaspp@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: very easy to mingle with people
 
 
 ## 🌐 Socials:
